@@ -1,3 +1,4 @@
+#!/usr/bin/env Node
 import inquirer from "inquirer";
 import chalk from "chalk";
 const randomNumber = 42;
